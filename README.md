@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-## Drag and Drop Layer<br/>by A Madarum
+## Drag and Drop Layer
 
 
 </div>
@@ -15,10 +15,14 @@ You can drag and drop layer as virtual window in your page
 
 <span>             |<span>
 ---                |---
-**Category**       |Layers
+**Submitted On**   |
+**By**             |[A Madarum](https://github.com/Planet-Source-Code/PSCIndex/blob/master/ByAuthor/a-madarum.md)
 **Level**          |Intermediate
-**User Rating**    |3.9 (27 votes by 7 users)|
+**User Rating**    |3.9 (27 globes from 7 users)
 **Compatibility**  |
+**Category**       |[Layers](https://github.com/Planet-Source-Code/PSCIndex/blob/master/ByCategory/layers__2-78.md)
+**World**          |[Java](https://github.com/Planet-Source-Code/PSCIndex/blob/master/ByWorld/java.md)
+**Archive File**   |[](https://github.com/Planet-Source-Code/a-madarum-drag-and-drop-layer__2-2793/archive/master.zip)
 
 
 
@@ -26,6 +30,7 @@ You can drag and drop layer as virtual window in your page
 
 ### Source Code
 
+```
 <HTML>
 <HEAD><TITLE>Drag and Drop Layers</TITLE>
 <SCRIPT LANGUAGE=JAVASCRIPT>
@@ -94,4 +99,5 @@ document.onmouseup=mouseUp;
   <!------------- end layer -------------------->
 </BODY>
 </HTML>
+```
 
